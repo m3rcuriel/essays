@@ -1,0 +1,15 @@
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'essay.blg'
+[36] biber:277> INFO - === Fri May 22, 2015, 12:53:43
+[36] Biber.pm:333> INFO - Reading 'essay.bcf'
+[110] Biber.pm:635> INFO - Found 1 citekeys in bib section 0
+[135] Biber.pm:3051> INFO - Processing section 0
+[155] Biber.pm:3189> INFO - Looking for bibtex format file 'mlabib.bib' for section 0
+[155] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[156] bibtex.pm:864> INFO - Found BibTeX data source 'mlabib.bib'
+[181] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[182] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[182] Biber.pm:2928> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'en-US'
+[182] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
+[184] bbl.pm:517> INFO - Writing 'essay.bbl' with encoding 'UTF-8'
+[185] bbl.pm:606> INFO - Output to essay.bbl
